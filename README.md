@@ -6,4 +6,4 @@
 다만 이 프로그램에서 봉투를 가져가려 하면 컴퓨터가 종료되니 당한 게이들은 집을 나가 친구를 만나도록 
 
 
-다운로드 : 링크 만들면 추후 공개
+다운로드 : https://github.com/Rainybreeze/BJLetters/raw/master/BJLetters.exe
