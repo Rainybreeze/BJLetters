@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BJLetters:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BJLetters_jar</output-path>
+    <root id="archive" name="BJLetters.jar">
+      <element id="module-output" name="BJLetters" />
+    </root>
+  </artifact>
+</component>
