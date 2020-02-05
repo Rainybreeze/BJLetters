@@ -47,7 +47,6 @@ class LetterBox extends JFrame implements Runnable{
         icons.add(new ImageIcon(imgURL2));
         URL imgURL3 = getClass().getClassLoader().getResource("icon3.png");
         icons.add(new ImageIcon(imgURL3));
-        //완성한건가
 
         Random random = new Random();
         JButton button = new JButton();
